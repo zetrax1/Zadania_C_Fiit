@@ -31,6 +31,7 @@ struct vlastnosti_pola {
 typedef struct vlastnosti_pola pole;
 
 void *Zaciatok;
+int nanic;
 
 void* najblizsi_volny(unsigned int velkost) {
 
